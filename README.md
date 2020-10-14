@@ -10,12 +10,12 @@
 * ReactJS
 * Firebase
 
-# Prerequisites
+# 🧩 Prerequisites
 
 * node
 * npm
 
-# To run the project
+# ⚡ To run the project
 
 1. Clone/download the repository.
 
