@@ -1,4 +1,4 @@
-# Quiz-App
+# Quiz-App 🧠🤔
 
 # [Play Game]
 
